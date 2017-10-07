@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/narmirzaei/Slack-CoffeeBreak-Bot#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "node-schedule": "^1.2.5",
     "random-int": "^1.0.0",
     "slack": "^9.0.5"

@@ -1,0 +1,24 @@
+{
+  "name": "slack-coffeebreak-bot",
+  "version": "1.0.0",
+  "description": "A quick bot that reminds you to take a break on a Slack channel. Just for fun ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narmirzaei/Slack-CoffeeBreak-Bot.git"
+  },
+  "author": "Narbeh Mirzaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narmirzaei/Slack-CoffeeBreak-Bot/issues"
+  },
+  "homepage": "https://github.com/narmirzaei/Slack-CoffeeBreak-Bot#readme",
+  "dependencies": {
+    "node-schedule": "^1.2.5",
+    "random-int": "^1.0.0",
+    "slack": "^9.0.5"
+  }
+}
